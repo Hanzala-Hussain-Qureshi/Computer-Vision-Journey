@@ -1,7 +1,7 @@
 # Project: Real-time Face Detection
 # Author: Hanzala Hussain Qureshi
 # Date: April 2026
-# Description: Detects faces in real-time using webcam and OpenCV Haar Cascade
+# Description: Detects faces in real-time using webcam and OpenCV Haar Cascade.
 
 import cv2
 
