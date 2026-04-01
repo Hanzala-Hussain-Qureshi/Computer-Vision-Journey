@@ -51,7 +51,8 @@ python Face_Detection.py
 This is Project 1 of my Computer Vision Journey. 
 Building toward Robotics AI.
 Goal: Build a company that competes globally. 🌍
-```
+
+---
 
 ## 👤 Author
 Hanzala Hussain Qureshi — BS Data Science Student
